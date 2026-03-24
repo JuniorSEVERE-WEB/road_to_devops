@@ -1,0 +1,7 @@
+server_name mefolio.com
+server_name mefolio.com
+server_name mefolio.com
+
+proxy_pass https://app
+proxy_pass https://app
+proxy_pass https://app

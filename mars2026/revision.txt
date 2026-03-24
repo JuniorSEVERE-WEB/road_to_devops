@@ -1,0 +1,5 @@
+PROJECT_NAME=MeFolio
+DEBUG=True
+PORT=8000
+DATABASE=postgres
+HOST=localhost
