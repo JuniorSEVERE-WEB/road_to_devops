@@ -1,3 +1,3 @@
-ii
-X
-hgh
+#!/bin/bash
+echo "Bonjour Junior "
+
