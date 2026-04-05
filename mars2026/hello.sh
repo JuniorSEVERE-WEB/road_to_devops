@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "Bonjour Junior "
+echo "Hello Junior, il est $(date)" >> /tmp/hello.log
+
 
