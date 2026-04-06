@@ -1,9 +1,0 @@
-PROJECT_NAME=MeFolio
-DEBUG=False
-PORT=8000
-PORT=8000
-PORT=8000
-DATABASE=postgres
-USER=admin
-PORT=5432
-HOST=localhost
