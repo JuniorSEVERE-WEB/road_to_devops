@@ -1,0 +1,18 @@
+Bonjour SEVERE,
+je serai un grand 
+devops/cloud engineer
+maitrisant python/go
+, on ne sait jamais pour 
+Rust, Java, C, C++.
+ok SEVERE.
+
+
+app1-prod
+app2-prod
+app3-prod
+app4-prod
+
+app1-prod
+app2-prod
+app3-prod
+app4-prod
