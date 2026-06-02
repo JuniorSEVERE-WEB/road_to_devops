@@ -1,1 +1,9 @@
 hgh
+Bonjour Junior, comment vas-tu?
+Je suis tres devoue a etre un devops engineer,
+je suis tres devoue aussi a etre un Linux admin,
+je suis tres devoue aussi aete un cloud engineer,
+je suis tres devoue aussi a etre un full-stack developer,
+Je suis tres devoue aussi a etre un solution architecte.
+
+
