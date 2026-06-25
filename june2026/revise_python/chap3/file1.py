@@ -5,5 +5,5 @@ if temperature < 20:
 elif temperature >= 20 and temperature < 30:
     print("Chaud")
 elif temperature >= 30:
-    print("Tres chaudjjjjjjj")
+    print("Tres chaudjjjjjjjjjjjjj")
             
